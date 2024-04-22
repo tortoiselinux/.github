@@ -23,7 +23,7 @@ até agora é listado como possibilidade de linguagem:
 
 ## interface gráfica
 
-O tortoise já possui uma imagem testável e com um pouco do que idealiso que será a cara do sistema. Nada muito customizado ou opinativo na forma que o desenvolvedor irá trabalhar. No momento a interface que possuimos é o KDE, mas como o sistema deixará ao encargo do usuário moldar o sistema a maneira que se sente confortável creio que seria bastante interessante disponibilizarmos pelo menos uma maneira de baixar de forma rápida as interfaces para o seu sistema. Estou trabalhando nessa ideia!
+O tortoise já possui uma imagem testável e com um pouco do que idealiso que será a cara do sistema. No momento as interfaces que possuimos são o i3wm e o KDE, mas como o sistema deixará ao encargo do usuário moldar o sistema a maneira que se sente confortável creio que seria bastante interessante disponibilizarmos pelo menos uma maneira de baixar de forma rápida as interfaces para o seu sistema. Estou trabalhando nessa ideia!
 
 ## customizações no tortoise
 
