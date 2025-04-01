@@ -1,36 +1,48 @@
 # TORTOISE LINUX
 
-Como muito desse projeto ainda não saiu no papel, nesse README eu gostaria de explicar bastante do que estou idealizando para o projeto, para que você usuário ou desenvolvedor possa saber qual rumo está traçado para a distribuição até suas ideias sairem do papel e chegarem até uma versão estável.
+## Introdução ao Tortoise
 
-Estou evoluindo bastante nesse quesito, já possuindo uma ISO para testes do sistema operacional :) 
+Seja bem-vindo ao Tortoise!
 
-se você gostar das ideias ditas aqui e tiver mais, abra uma issue. Ficarei extremamente feliz com a sua colaboração :) <3
+O Tortoise é uma distribuição baseada no Arch Linux, nascida da grande ambição de um estudante do ensino médio. Seu objetivo é suprir as necessidades de desenvolvimento e fornecer um ambiente produtivo e confortável.
 
-## O que é o tortoise
+Usuários de Linux estão constantemente experimentando coisas novas: mudando de distribuição, interfaces, gerenciadores de janelas, temas, bibliotecas e até mesmo criando ou modificando software. Foi com esse objetivo que o Tortoise foi criado: proporcionar um ambiente de fácil e rápida configuração, sem atrapalhar aqueles que têm prazer em experimentar.
 
-tortoise é um pequeno projeto de um estudante de programação e amante do linux, a fim de entender como um sistema operacional funciona e no processo utilizar todo o aprendizado para criar ferramentas que auxiliem no processo de desenvolvimento.
+## A filosofia do Tortoise
 
-o objetivo é projetar um sistema focado nos desenvolvedores de software ao mesmo tempo que não esconde conceitos e complexidades do sistema. É importante que programadores saibam como funciona os sistemas para qual estão desenvolvendo suas ferramentas. Por esta razão o usuário do sistema será sempre incentivado a ler a documentação das ferramentas e também desenvolvê-las
+O Tortoise é guiado por alguns princípios fundamentais:
 
-## Linguagens suportadas
+### Devagar e sempre, mas sempre evoluindo
 
-até o momento, as ferramentas do tortoise são escritas em shell script, mas no futuro pretendo dar suporte a ferramentas que sejam criadas em linguagens diferentes 
+O Tortoise está em constante evolução, seja adicionando novas funcionalidades, melhorando a legibilidade do código, aprimorando a performance ou corrigindo bugs.
 
-até agora é listado como possibilidade de linguagem:
+O que será dito a seguir pode parecer contraditório devido a esta seção, mas ultimamente muitos desenvolvedores estão mais preocupados com filosofias e ideologias do que com soluções práticas que impactam o dia a dia. Embora refletir sobre como as coisas são feitas seja essencial, um excesso disso pode se tornar contraproducente.
 
-*  rust
-*  c++
+Por isso, focamos em resolver as necessidades reais dos usuários, proporcionando uma experiência confortável, onde as coisas simplesmente funcionam.
 
-## interface gráfica
+### Simplicidade em primeiro lugar
 
-O tortoise já possui uma imagem testável e com um pouco do que idealiso que será a cara do sistema. No momento as interfaces que possuimos são o i3wm e o KDE, mas como o sistema deixará ao encargo do usuário moldar o sistema a maneira que se sente confortável creio que seria bastante interessante disponibilizarmos pelo menos uma maneira de baixar de forma rápida as interfaces para o seu sistema. Estou trabalhando nessa ideia!
+Todas as soluções do Tortoise são simples. Sistemas excessivamente complexos são um problema tanto para quem usa quanto para quem desenvolve. Nosso objetivo é manter tudo funcional e intuitivo.
 
-## customizações no tortoise
+## Como instalar o Tortoise
 
-Você pode até pensar que essa coisa de deixar a interface o mais próximo do padrão e deixar o usuário moldar a sua maneira fará com que bastante tempo seja perdido, e seria se também não estivesse trabalhando em uma ferramenta para auxiliar isso. Sendo muito honesto tudo isso. Futuramente o usuário deverá criar suas customizações e guardar em um lugar seguro. Essa ferramenta que estou chamando de sysconf irá se encarregar de baixar os utilitários necessários para as configurações e também mover os arquivos de configuraçãao para o seu devido lugar.
+📌 **Nota:** Ainda não há uma ISO oficial ou release do Tortoise. No entanto, você pode tentar compilar a partir do perfil disponível e realizar seus testes.
 
-## próximos passos
+Caso tenha alguma contribuição interessante para compartilhar, confira a seção de contribuição.
 
-Agora que você já entendeu alguns dos propositos da distribuição, sugiro ver os repositórios que temos até o momento, ler as issues e quem sabe até contribuir! tenho certeza que aprenderemos bastante juntos :)
+Para instalar, siga os passos descritos em:
+🔗 [https://tortoiselinux.github.io/tortoiselinux/installation_guide](https://tortoiselinux.github.io/tortoiselinux/installation_guide)
 
-abraços, welly <3
+## Contribuindo
+
+Para contribuir com o Tortoise, siga o fluxo de trabalho do GitHub: faça um fork, realize suas modificações, teste e, quando estiver pronto, envie um pull request.
+
+Toda contribuição é bem-vinda! Ficarei extremamente feliz em ver mais pessoas interessadas no projeto. 😊
+
+## Licença
+
+Todo o projeto está sob a licença MIT. Você pode usar o Tortoise para quaisquer propósitos, inclusive comerciais. A única exigência é que dê os devidos créditos ao projeto e ao seu criador. Se possível, contribua com o projeto! Ficaremos muito felizes.
+
+Do seu distro maintainer desconhecido, um abraço!
+
+— **Welly**
