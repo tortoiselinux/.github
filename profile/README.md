@@ -31,7 +31,7 @@ Todas as soluções do Tortoise são simples. Sistemas excessivamente complexos 
 Caso tenha alguma contribuição interessante para compartilhar, confira a seção de contribuição.
 
 Para instalar, siga os passos descritos em:
-🔗 [https://tortoiselinux.github.io/tortoiselinux/installation_guide](https://tortoise.wellyxs.com)
+🔗 [Installation Guide](https://tortoise.wellyxs.com)
 
 ## Contribuindo
 
